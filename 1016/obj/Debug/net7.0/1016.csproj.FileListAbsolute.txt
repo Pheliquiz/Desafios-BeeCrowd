@@ -1,0 +1,15 @@
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\bin\Debug\net7.0\1016.exe
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\bin\Debug\net7.0\1016.deps.json
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\bin\Debug\net7.0\1016.runtimeconfig.json
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\bin\Debug\net7.0\1016.dll
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\bin\Debug\net7.0\1016.pdb
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\obj\Debug\net7.0\1016.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\obj\Debug\net7.0\1016.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\obj\Debug\net7.0\1016.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\obj\Debug\net7.0\1016.AssemblyInfo.cs
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\obj\Debug\net7.0\1016.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\obj\Debug\net7.0\1016.dll
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\obj\Debug\net7.0\refint\1016.dll
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\obj\Debug\net7.0\1016.pdb
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\obj\Debug\net7.0\1016.genruntimeconfig.cache
+D:\VISUAL STUDIO\Projetos\BeeCrowd\1016\obj\Debug\net7.0\ref\1016.dll
