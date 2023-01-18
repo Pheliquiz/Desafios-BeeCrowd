@@ -1,0 +1,15 @@
+/home/felix/Desafios-BeeCrowd/1043/obj/Debug/net7.0/1043.csproj.AssemblyReference.cache
+/home/felix/Desafios-BeeCrowd/1043/obj/Debug/net7.0/1043.GeneratedMSBuildEditorConfig.editorconfig
+/home/felix/Desafios-BeeCrowd/1043/obj/Debug/net7.0/1043.AssemblyInfoInputs.cache
+/home/felix/Desafios-BeeCrowd/1043/obj/Debug/net7.0/1043.AssemblyInfo.cs
+/home/felix/Desafios-BeeCrowd/1043/obj/Debug/net7.0/1043.csproj.CoreCompileInputs.cache
+/home/felix/Desafios-BeeCrowd/1043/bin/Debug/net7.0/1043
+/home/felix/Desafios-BeeCrowd/1043/bin/Debug/net7.0/1043.deps.json
+/home/felix/Desafios-BeeCrowd/1043/bin/Debug/net7.0/1043.runtimeconfig.json
+/home/felix/Desafios-BeeCrowd/1043/bin/Debug/net7.0/1043.dll
+/home/felix/Desafios-BeeCrowd/1043/bin/Debug/net7.0/1043.pdb
+/home/felix/Desafios-BeeCrowd/1043/obj/Debug/net7.0/1043.dll
+/home/felix/Desafios-BeeCrowd/1043/obj/Debug/net7.0/refint/1043.dll
+/home/felix/Desafios-BeeCrowd/1043/obj/Debug/net7.0/1043.pdb
+/home/felix/Desafios-BeeCrowd/1043/obj/Debug/net7.0/1043.genruntimeconfig.cache
+/home/felix/Desafios-BeeCrowd/1043/obj/Debug/net7.0/ref/1043.dll
